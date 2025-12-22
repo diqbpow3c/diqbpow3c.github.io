@@ -1,8 +1,8 @@
 ---
-title: Search
+title: test
 ---
 
-# Search
+# test
 {: .no_toc }
 
 ## Table of contents
