@@ -6,5 +6,5 @@ description: "Simple blogs."
 permalink: /
 ---
 
-This the repository for <https://diqbpow3c.github.io/>
+Simple personal blogs.
 
