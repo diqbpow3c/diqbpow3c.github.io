@@ -2,6 +2,8 @@
 layout: default
 title: Winboat vs RemoteApps + virt-manager
 nav_order: 3
+feed: true
+date: 2025-12-23
 ---
 
 # Winboat vs RemoteApps + virt-manager

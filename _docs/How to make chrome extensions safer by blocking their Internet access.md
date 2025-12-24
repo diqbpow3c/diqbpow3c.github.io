@@ -1,7 +1,9 @@
 ---
 layout: default
 title: How to make chrome extensions safer by blocking their Internet access
-nav_order: 3
+nav_order: 2
+feed: true
+date: 2025-12-23
 ---
 
 # How to make chrome extensions safer by blocking their Internet access

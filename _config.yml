@@ -1,5 +1,5 @@
 title: diqbpow3c's Blog
-description: A simple blog site.
+description: A simple blog site of diqbpow3c.
 theme: just-the-docs
 
 url: https://diqbpow3c.github.io
@@ -10,3 +10,24 @@ plugins:
   - jekyll-seo-tag
   - jekyll-include-cache
   - jekyll-sitemap
+  - jekyll-feed
+
+just_the_docs:
+  collections:
+    docs:
+      name: docs
+
+aux_links:
+  "GitHub":
+    - "https://github.com/diqbpow3c"
+  "RSS/Atom Feed":
+    - "/feed/docs.xml"
+
+collections:
+  docs:
+    output: true
+
+feed:
+  collections:
+    docs:
+      path: "/feed/docs.xml"
