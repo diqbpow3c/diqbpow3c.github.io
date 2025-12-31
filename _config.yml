@@ -31,3 +31,4 @@ feed:
   collections:
     docs:
       path: "/feed/docs.xml"
+

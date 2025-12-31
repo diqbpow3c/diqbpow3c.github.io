@@ -14,5 +14,6 @@ gem "just-the-docs"
 gem "jekyll-github-metadata", ">= 2.15"
 gem "jekyll-include-cache", group: :jekyll_plugins
 gem "jekyll-sitemap", group: :jekyll_plugins
-gem 'jekyll-feed'
+gem 'jekyll-feed', group: :jekyll_plugins
+# gem 'jekyll-favicon', '~> 1.1.0', group: :jekyll_plugins
 # gem "html-proofer", "~> 5.1", group: :development
