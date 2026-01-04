@@ -12,6 +12,12 @@ date: 2025-12-23
 
 {: .fs-6 .fw-300 }
 
+{% if page.date %}
+  <time datetime="{{ page.date | date_to_xmlschema }}">
+    {{ page.date | date: "%Y-%m-%d" }}
+  </time>
+{% endif %}
+
 # Table of contents
 {: .no_toc .text-delta }
 
