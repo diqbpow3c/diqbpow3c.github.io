@@ -7,7 +7,6 @@ date: 2025-12-23
 ---
 
 # How to make chrome extensions safer by blocking their Internet access
-{: .no_toc }
 
 
 {: .fs-6 .fw-300 }
@@ -18,11 +17,6 @@ date: 2025-12-23
   </time>
 {% endif %}
 
-# Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
 
 # The security issues for Chrome/Chromium extensions
 Browser extensions are powerful—and that power cuts both ways.
