@@ -1,8 +1,8 @@
-title: Blog of diqbpow3c
-description: A simple blog site of diqbpow3c.
+title: Blog of neural-koala
+description: Blog site of neural-koala.
 theme: just-the-docs
 
-url: https://diqbpow3c.github.io
+url: https://neural-koala.github.io
 heading_anchors: true
 heading_numbering: true
 
@@ -19,7 +19,7 @@ just_the_docs:
 
 aux_links:
   "GitHub":
-    - "https://github.com/diqbpow3c"
+    - "https://github.com/neural-koala"
   "RSS/Atom Feed":
     - "/feed/docs.xml"
 
