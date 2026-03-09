@@ -6,7 +6,7 @@ description: "Blogs of neural-koala."
 permalink: /
 ---
 
-Personal blogs of neural-koala.
+Blogs of neural-koala.
 
 {% for doc in site.docs %}
 ## [{{ doc.title }}]({{ doc.url | relative_url }})
